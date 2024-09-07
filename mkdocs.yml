@@ -1,0 +1,50 @@
+site_name: My Docs
+repo_url: https://github.com/Chocolateater/Resource-Library
+# edit_uri: 'https://chocolateater.github.io/Resource-Library/edit/?ref='
+nav:
+  - 主页 Home: intro.md
+theme:
+  name: material
+  language: zh
+  custom_dir : overrides
+  icon:
+    logo: fontawesome/solid/book
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - content.action.edit
+    # - header.autohide
+    - search.suggest
+    - search.highlight
+    - announce.dismiss
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: red
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: black
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  font:
+    text: 'Fira Sans'
+    code: 'Fira Mono'
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+
+extra:
+  homepage: https://chocolateater.github.io/FD-Class/
