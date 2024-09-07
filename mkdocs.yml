@@ -8,7 +8,61 @@ nav:
     - 电影 Movies: Film/movies.md
     - 动漫 anime: Film/anime.md
     - 电视剧 TV Shows: Film/tvshows.md
-
+  - 软件 Software:
+    - 索引 Index: Software/index.md
+    - 效率 Office: Software/office.md
+    - 设计 Design: Software/design.md
+    - 开发 Development: Software/development.md
+    - 教育 Education: Software/education.md
+    - 娱乐 Entertainment: Software/entertainment.md
+    - 音乐 Music: Software/music.md
+    - 个性化 Personalization: Software/personalization.md
+    - 网络 Network: Software/network.md
+    - 安全 Security: Software/security.md
+    - 游戏 Game: Software/game.md
+    - 其他 Other: Software/other.md
+  - Ai ai-hub:
+    - 索引 Index: ai-hub/index.md
+    - 语言模型 LLM: ai-hub/llm.md
+    - 文生图模型 GAN: ai-hub/gan.md
+    - 文字转语言 TTS: ai-hub/tts.md
+    - 文字转视频 T2V: ai-hub/t2v.md
+  - 书籍 Books:
+    - 索引 Index: Books/index.md
+    - 小说 Novels: Books/novels.md
+    - 漫画 Comics: Books/comics.md
+    - 学术文献 Academic: Books/academic.md
+    - 其他 Other: Books/other.md
+  - 音乐 Music:
+    - 索引 Index: Music/index.md
+    - 古典音乐 Classical: Music/classical.md
+    - 流行音乐 Popmusic: Music/popmusic.md
+    - 纯音乐 Puremusic: Music/puremusic.md
+    - 其他 Other: Music/other.md
+  - 图片 Pictures:
+    - 索引 Index: Pictures/index.md
+    - 抽象 Art: Pictures/art.md
+    - 动漫 Anime: Pictures/anime.md
+    - 汽车 Cars: Pictures/cars.md
+    - 奇幻 Fantasy: Pictures/fantasy.md
+    - 电影 Film: Pictures/film.md
+    - 游戏 Game: Pictures/game.md
+    - 摄影 Photography: Pictures/photography.md
+    - 像素 Pixel: Pictures/pixel.md
+    - 科幻 Science Fiction: Pictures/science-fiction.md
+    - 体育 Sports: Pictures/sports.md
+    - 其他 Other: Pictures/other.md
+  - 操作系统 Operating System:
+    - 索引 Index: Operating-System/index.md
+    - Windows: Operating-System/windows.md
+    - MacOS: Operating-System/macos.md
+    - Ubuntu: Operating-System/ubuntu.md
+    - Debian: Operating-System/debian.md
+    - Linux: Operating-System/linux.md
+    - Mobile: Operating-System/mobile.md
+  - 其他 Other: other.md
+    - 索引 Index: other/index.md
+    - 其他 Other: other/other.md
 
 # Something here …
 
