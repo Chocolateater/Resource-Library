@@ -3,6 +3,9 @@ repo_url: https://github.com/Chocolateater/Resource-Library
 # edit_uri: 'https://chocolateater.github.io/Resource-Library/edit/?ref='
 nav:
   - 主页 Home: intro.md
+
+# Something here …
+
 theme:
   name: material
   language: zh
