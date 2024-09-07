@@ -4,11 +4,11 @@ repo_url: https://github.com/Chocolateater/Resource-Library
 nav:
   - 主页 Home: intro.md
   - 影视 Film:
-    - 索引 Index: film/index.md
-    - 电影 Movies: film/movies.md
-    - 动漫 anime: film/anime.md
-    - 电视剧 TV Shows: film/tvshows.md
-    
+    - 索引 Index: Film/index.md
+    - 电影 Movies: Film/movies.md
+    - 动漫 anime: Film/anime.md
+    - 电视剧 TV Shows: Film/tvshows.md
+
 
 # Something here …
 
