@@ -3,6 +3,12 @@ repo_url: https://github.com/Chocolateater/Resource-Library
 # edit_uri: 'https://chocolateater.github.io/Resource-Library/edit/?ref='
 nav:
   - 主页 Home: intro.md
+  - 影视 Film:
+    - 索引 Index: film/index.md
+    - 电影 Movies: film/movies.md
+    - 动漫 anime: film/anime.md
+    - 电视剧 TV Shows: film/tvshows.md
+    
 
 # Something here …
 
