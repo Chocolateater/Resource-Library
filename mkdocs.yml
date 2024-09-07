@@ -22,11 +22,11 @@ nav:
     - 游戏 Game: Software/game.md
     - 其他 Other: Software/other.md
   - Ai ai-hub:
-    - 索引 Index: ai-hub/index.md
-    - 语言模型 LLM: ai-hub/llm.md
-    - 文生图模型 GAN: ai-hub/gan.md
-    - 文字转语言 TTS: ai-hub/tts.md
-    - 文字转视频 T2V: ai-hub/t2v.md
+    - 索引 Index: Ai-hub/index.md
+    - 语言模型 LLM: Ai-hub/llm.md
+    - 文生图模型 GAN: Ai-hub/gan.md
+    - 文字转语言 TTS: Ai-hub/tts.md
+    - 文字转视频 T2V: Ai-hub/t2v.md
   - 书籍 Books:
     - 索引 Index: Books/index.md
     - 小说 Novels: Books/novels.md
