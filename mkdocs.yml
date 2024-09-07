@@ -28,11 +28,11 @@ nav:
     - 文字转语言 TTS: Ai-hub/tts.md
     - 文字转视频 T2V: Ai-hub/t2v.md
   - 书籍 Books:
-    - 索引 Index: Books/index.md
-    - 小说 Novels: Books/novels.md
-    - 漫画 Comics: Books/comics.md
-    - 学术文献 Academic: Books/academic.md
-    - 其他 Other: Books/other.md
+    - 索引 Index: Book/index.md
+    - 小说 Novels: Book/novels.md
+    - 漫画 Comics: Book/comics.md
+    - 学术文献 Academic: Book/academic.md
+    - 其他 Other: Book/other.md
   - 音乐 Music:
     - 索引 Index: Music/index.md
     - 古典音乐 Classical: Music/classical.md
