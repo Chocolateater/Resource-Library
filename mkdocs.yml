@@ -60,7 +60,7 @@ nav:
     - Debian: Operating-System/debian.md
     - Linux: Operating-System/linux.md
     - Mobile: Operating-System/mobile.md
-  - 其他 Other: other.md
+  - 其他 Other: 
     - 索引 Index: other/index.md
     - 其他 Other: other/other.md
 
