@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: Resource-Library
 repo_url: https://github.com/Chocolateater/Resource-Library
 # edit_uri: 'https://chocolateater.github.io/Resource-Library/edit/?ref='
 nav:
@@ -79,7 +79,7 @@ theme:
     # - header.autohide
     - search.suggest
     - search.highlight
-    - announce.dismiss
+    # - announce.dismiss
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
