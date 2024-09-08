@@ -10,3 +10,9 @@
 
 关键词：网站，Github
  
+<h3><a href="https://github.com/Chocolateater/Resource-Library/blob/master/docs/index.md">资源库</a> </h3>
+
+简介
+
+关键词：资源关键词
+ 
