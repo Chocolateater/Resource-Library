@@ -4,3 +4,9 @@
 
 关键词：音乐
  
+<h3><a href="https://github.com/Chocolateater/Resource-Library">Github 资源库</a> </h3>
+
+基于 Gh-pages 和 Mkdocs 的项目
+
+关键词：网站，Github
+ 
